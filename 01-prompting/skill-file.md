@@ -22,7 +22,7 @@ Ask questions only when missing information would materially change the analysis
 
 ## Format
 
-Return a written Markdown report with these six sections:
+Return a written Markdown report with that can contain any of the following:
 
 1. **Overview:** Research goal, concept or experience discussed, companies and relevant roles interviewed, unique participant count. 
 2. **Summary:** Three to five high-level takeaways, or fewer when evidence is limited. Explain what matters most for Product, Design, and leadership.

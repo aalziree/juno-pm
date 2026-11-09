@@ -16,5 +16,5 @@ _____
 ## Debrief
 
 - **What worked:** mock transcripts successfully ingested, and the information was well organized. 
-- **What broke / felt like a toy:** the unnecessary and overwhelming lists of transcript details (eg, personas, customers) listed all over the UI
+- **What broke / felt like a toy:** output is too verbose, and unnecessarily lists transcript details (eg, personas, customers) all over the UI
 - **What I'd change next pass:** the UI is overwhelming and not easy to scan. Need to simplify further. 

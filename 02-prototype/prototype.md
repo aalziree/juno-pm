@@ -4,18 +4,17 @@
 
 ## Prototype link
 
-_The public share URL from your build tool. No share URL? A screenshot of the working flow is fine, the prompt is what is assessed._
-
+https://claude.ai/artifact/48QPQvcqHDa2G4m3t9oYix
 _____
 
 ## What it demonstrates
 
-_The one flow this prototype proves._
+Real-time dashboard that summarizes insights for new product concept research using customer interview transcripts. 
 
 _____
 
 ## Debrief
 
-- **What worked:** _____
-- **What broke / felt like a toy:** _____
-- **What I'd change next pass:** _____
+- **What worked:** mock transcripts successfully ingested, and the information was well organized. 
+- **What broke / felt like a toy:** the unnecessary and overwhelming lists of transcript details (eg, personas, customers) listed all over the UI
+- **What I'd change next pass:** the UI is overwhelming and not easy to scan. Need to simplify further. 
